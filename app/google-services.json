@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "901494726288",
+    "firebase_url": "https://lukeapp-264c8.firebaseio.com",
+    "project_id": "lukeapp-264c8",
+    "storage_bucket": "lukeapp-264c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901494726288:android:10b4fa376bcde455",
+        "android_client_info": {
+          "package_name": "com.example.kotli.lukeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901494726288-6nj22i01kk5uvk63cs7c1t8gkbs0737e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotli.lukeapp",
+            "certificate_hash": "8eada6c6496d7cc2c72012b13e420d151d13a70a"
+          }
+        },
+        {
+          "client_id": "901494726288-lqm2gm39doce7sfjd6oa0opf8c32v34v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEzHYWeeqzVwmkcKHVn_fJQbne9vPQEC0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901494726288-lqm2gm39doce7sfjd6oa0opf8c32v34v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
